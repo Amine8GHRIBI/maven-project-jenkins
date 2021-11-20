@@ -10,7 +10,7 @@ Java Hello World web application created using maven-archetype-webapp
 
 ## Eclipse Project setup
 * Use git clone to pull project into workspace directory
- * git clone https://github.com/tekup2021/maven-project-tomcat.git
+ * git clone https://github.com/amineghribii/maven-project-jenkins.git
 * Use maven to resolve Eclipse dependencies
  * mvn eclipse:eclipse
 * Import 'maven-project-tomcat' as existing project into Eclipse 
